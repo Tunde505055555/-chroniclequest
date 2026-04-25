@@ -4,7 +4,7 @@ A competitive AI-judged survival story game built on GenLayer Intelligent Contra
 
 Players respond to crisis scenarios and get scored 0-100 on creativity by an on-chain AI. Scores are stored permanently on the blockchain in a live leaderboard. No human judges. No cheating.
 
-**Live: https://chroniclequest.netlify.app
+**Live: https://chronicle-quest.netlify.app
 
 ---
 
